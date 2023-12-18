@@ -16,7 +16,7 @@ public class POO1 {
         String color= leer.next();
         
         Ventilador miventilador = new Ventilador(color);
-        miventilador.setColor("verde");
+        miventilador.setColor("naranja");
         //System.out.println(miventilador.getColor());
         
         miventilador.mostrarestado();
